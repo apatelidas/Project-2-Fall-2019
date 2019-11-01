@@ -56,15 +56,12 @@ body {
 	font-size: 10px;
 	text-align: center;
 }
-
 h2 {
 	font-family: "Calibri", cursive;
 	color: #808080;
 	text-align: center;
 }
-
-}
-{
+h1 {
 	font-family: "Calibri", cursive;
 	color: #FF00FF;
 	height: 20px;
