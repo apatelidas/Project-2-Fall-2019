@@ -1,7 +1,7 @@
-.page body{
+body{
 	margin: 0;
 	padding: 0;
-	background-color: rgb(255, 105, 180);
+	background-color: #808080;
 }
 .boogie {
 	border-radius: 50%;
