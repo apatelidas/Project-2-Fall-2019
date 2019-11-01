@@ -4,6 +4,11 @@ body {
 	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg");
 	background-size: 400px 200px, cover;
 }
+.page {
+	margin-top: 5;
+	margin-bottom: 5;
+	background-color: rgb (255, 105, 180);
+}
 .navbar {
 	margin: 0;
 	padding: 0;
