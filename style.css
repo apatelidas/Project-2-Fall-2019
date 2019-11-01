@@ -7,6 +7,7 @@ body{
 	height: 100px;
 	width: 100px;
 	border-radius: 50%;
+	overflow: hidden;
 }	
 .navbar nav {
 	margin: 0;
