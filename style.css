@@ -1,6 +1,6 @@
 body {
-	margin: 10;
-	padding: 20;
+	margin: 0;
+	padding: 0;
 	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg");
 	background-size: 400px 200px, cover;
 }
@@ -24,13 +24,6 @@ body {
 	font-size: 10px;
 	text-align: center;
 	size: 100px 50px;
-}
-.img2 {
-	font-family: "Calibri", cursive;
-	color: #C0C0C0;
-	background-color #FF00FF;
-	font-size: 10px;
-	text-align: center;
 }
 .img2 {
 	font-family: "Calibri", cursive;
