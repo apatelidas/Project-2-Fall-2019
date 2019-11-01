@@ -71,8 +71,8 @@ h1 {
 	color: #FF00FF;
 	height: 20px;
 }
-p, h4 {
-	text-align: center;
+h4 {
+	text-align: left;
 	height: 25px;
 	color: #808000;
 }
