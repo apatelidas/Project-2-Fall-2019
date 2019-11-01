@@ -1,8 +1,9 @@
-body {
+body.page {
 	margin: 0;
 	padding: 0;
 	background-color:  rgb (255, 105, 180);
 }
+
 nav.navbar {
 	margin: 0;
 	padding: 0;
@@ -14,7 +15,7 @@ ul.navbar {
 	padding: 0;
 	background-color: #80080;
 }
-.img1 {
+div.img1 {
 	font-family: "Calibri", cursive;
 	color: #808080;
 	background-color #808000;
@@ -22,7 +23,7 @@ ul.navbar {
 	text-align: center;
 	size: 100px 50px;
 }
-.img2 {
+div.img2 {
 	font-family: "Calibri", cursive;
 	color: #C0C0C0;
 	background-color #FF00FF;
