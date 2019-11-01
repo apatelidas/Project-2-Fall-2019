@@ -21,7 +21,7 @@ div.img1 {
 	background-color #808000;
 	font-size: 10px;
 	text-align: center;
-	size: 100px 50px;
+	border-radius: 50%;
 }
 div.img2 {
 	font-family: "Calibri", cursive;
