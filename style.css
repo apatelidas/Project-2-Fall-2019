@@ -66,7 +66,7 @@ div.img2 {
 h2 {
 	font-family: "Calibri", cursive;
 	color: #808080;
-	text-align: center;
+	text-align: left;
 }
 h1 {
 	font-family: "Calibri", cursive;
@@ -74,6 +74,7 @@ h1 {
 	height: 20px;
 }
 h4 {
+	font-family: "Calibri", cursive;
 	text-align: left;
 	height: 25px;
 	color: #808000;
