@@ -8,6 +8,11 @@ body {
 	padding: 0;
 	text-align: center;
 }
+.nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
 .img1 {
 	font-family: "Calibri", cursive;
 	color: #808080;
@@ -50,11 +55,6 @@ body {
 	background-color #00FFFF;
 	font-size: 10px;
 	text-align: center;
-}
-ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
 }
 
 h2 {
