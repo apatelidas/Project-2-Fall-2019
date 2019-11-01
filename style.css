@@ -23,11 +23,13 @@ body{
 }
 .img1 {
 	font-family: "Calibri", cursive;
-	color: #808080;
 	background-color: #808000;
 	font-size: 10px;
 	text-align: center;
+	height: 200px;
+	width: 200px;
 	border-radius: 50%;
+	overflow: hidden;
 }
 img2 {
 	height: 200px;
