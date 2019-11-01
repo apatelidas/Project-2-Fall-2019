@@ -15,13 +15,22 @@ body{
 	text-align: center;
 	display: inline;
 }
-.navbar ul{
+.navbar ul {
 	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 70px;
 	background-color: #808000;
 	text-align: center;
 }
+.navbar li {
+	margin: 20px;
+}
+.navbar li a {
+	color: #000000;
+	text-decoration: none;
+	
 .img1 {
 	font-family: "Calibri", cursive;
 	background-color: #808000;
