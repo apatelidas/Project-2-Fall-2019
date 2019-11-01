@@ -3,15 +3,16 @@ body {
 	padding: 0;
 	background-color:  rgb (255, 105, 180);
 }
-.navbar {
+nav.navbar {
 	margin: 0;
 	padding: 0;
 	text-align: center;
 }
-.nav ul {
+ul.navbar {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	background-color: #80080;
 }
 .img1 {
 	font-family: "Calibri", cursive;
