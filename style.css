@@ -1,21 +1,13 @@
 body {
-	margin: 0;
-	padding: 0;
+	margin: 5;
+	padding: 5;
 	background-image: url("media/pavesketch.jpg"), url("media/pave1.jpg");
 	background-size: 400px 200px, cover;
 }
 .navbar {
-	margin-left: auto;
-	margin-right: auto;
-	padding: 30px;
-}
-.container-fluid {
 	margin: 0;
 	padding: 0;
-}
-.navbar-header {
-	margin: 0;
-	padding: 0;
+	text-align: center;
 }
 .img1 {
 	font-family: "Calibri", cursive;
