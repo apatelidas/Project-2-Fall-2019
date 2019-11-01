@@ -4,11 +4,7 @@
 	background-color: rgb(255, 105, 180);
 }
 .boogie {
-	font-family: "Calibri", cursive;
-	background-color: #FF00FF;
-	font-size: 10px;
 	border-radius: 50%;
-	position: relative;
 }	
 .navbar nav {
 	margin: 0;
