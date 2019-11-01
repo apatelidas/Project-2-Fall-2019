@@ -8,9 +8,7 @@
 	background-color: #FF00FF;
 	font-size: 10px;
 	border-radius: 50%;
-	position: center;
-	padding: 10;
-	margin: 5;
+	position: relative;
 }	
 .navbar nav {
 	margin: 0;
@@ -21,7 +19,7 @@
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: #80080;
+	background-color: #800800;
 }
 .img1 {
 	font-family: "Calibri", cursive;
@@ -53,9 +51,7 @@ img2 {
 	text-align: center;
 	position: relative;
 	margin-right: 10%;
-	margin-left: 0%
-	padding: 0;
-	margin: 0;
+	margin-left: 0%;
 }
 .img7 {
 	font-family: "Calibri", cursive;
